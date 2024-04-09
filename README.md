@@ -1,6 +1,6 @@
 # SQL to CSV Utility
 
-This SQL utility is designed to output the content from a Stored Procedure into a table format with one field per record, making it easily exportable as a CSV file. This utility is particularly useful for converting complex query results into a simple, flat-file format for reporting, data analysis, or easy sharing.
+This SQL Server Stored Proc. is designed to output the content from a Stored Procedure into a table format with one field per record, making it easily exportable as a CSV file. This utility is particularly useful for converting complex query results into a simple, flat-file format for reporting, data analysis, or easy sharing.
 
 ## Features
 
